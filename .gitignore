@@ -1,0 +1,14 @@
+# Binaries for programs and plugins
+*.dll
+
+
+# Dependency directories (remove the comment below to include it)
+vendor/
+.DS_Store
+.vscode/launch.json
+
+# AiGo
+Systemconfig.json
+
+serviceRegistry.db
+*.pem
